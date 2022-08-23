@@ -40,3 +40,12 @@ Stop Clicking/Clear Image:
   Continuing to search and click your inserted image.
  -Pressing “Clear Image” will clear your inserted image
   Allowing you to add a new one to click.
+
+
+# DOWNLOAD
+
+Link To Zip File For Python Script And Other Files Needed to Run
+https://drive.google.com/file/d/1oJqZmie9NUesUtPojXuQ91Jqed6-qHw_/view?usp=sharing
+
+Link To EXE File Of Program and Other Files Needed to Run
+https://drive.google.com/file/d/1V2f56SHu-IfKCOZdxR44KPpUO_3yAjZm/view?usp=sharing
